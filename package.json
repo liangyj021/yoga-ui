@@ -1,0 +1,27 @@
+{
+  "name": "yoga-ui",
+  "version": "0.0.1",
+  "description": "yoga-ui",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangyj021/yoga-ui.git"
+  },
+  "keywords": [
+    "yogaui",
+    "yoga-ui"
+  ],
+  "author": "liangyj021",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liangyj021/yoga-ui/issues"
+  },
+  "homepage": "https://github.com/liangyj021/yoga-ui#readme",
+  "readmeFilename": "README.md"
+}
