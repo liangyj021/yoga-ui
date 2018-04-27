@@ -8,7 +8,9 @@
   } else {
     this[name] = definition();
   }
-})('yoga-ui', function (range, size) {
-  var size = size || 2;
-  return Math.random().toFixed(size);
+})('yoga-ui', function () {
+  return function(range, size) {
+    var size = size || 2;
+    return Math.random().toFixed(size);
+  }
 });
