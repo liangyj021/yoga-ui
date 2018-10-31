@@ -1,0 +1,1 @@
+https://www.contributor-covenant.org/zh-cn/version/1/4/code-of-conduct

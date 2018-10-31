@@ -9,3 +9,10 @@ yoga-ui
 ```
 node test
 ```
+
+
+npm login 
+npm publish
+
+
+https://zhuanlan.zhihu.com/p/27401329

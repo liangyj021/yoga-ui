@@ -1,2 +1,6 @@
-node_modules/
+node_modules
 package-lock.json
+.*/node_modules/polished/.*
+.DS_Store
+build
+*.log
